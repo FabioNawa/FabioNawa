@@ -2,7 +2,7 @@
 
 <br>
 <h3> Sobre Mim </h3>
-<p> Meu nome é <b>Fábio Hiromitsu Nawa</b> e estou cursando o 2º Semestre da minha graduação em <b>Análise e Desenvolvimento de Sistemas na Fatec SJC</b>. Eu comecei a estudar na área de programação, pois fiquei curioso em descobrir como os sites, jogos, aplicativos funcionavam. </p>
+<p> Meu nome é <b>Fábio Hiromitsu Nawa</b> e estou cursando o 3º Semestre da minha graduação em <b>Análise e Desenvolvimento de Sistemas na Fatec SJC</b>. Eu comecei a estudar na área de programação, pois fiquei curioso em descobrir como os sites, jogos, aplicativos funcionavam. </p>
 
 <h3> 🎯 Meus Objetivos </h3>
 <p> Desejo me tornar um Desenvolvedor Back-end ou um Desenvolvedor de jogos </p>
