@@ -16,10 +16,10 @@
 
 <h2> 📊 Essas são as minhas estatísticas </h2>
 
-<a href="https://github.com/TechSDW">
+<a href="https://github.com/FabioNawa">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=techsdw&theme=tokyonight&show_icons=true" />
 </a>
-<a href="https://github.com/TechSDW?tab=repositories">
+<a href="https://github.com/FabioNawa?tab=repositories">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techsdw&layout=donut&langs_count=8&card_width=320&theme=tokyonight"/>
 </a>
 
@@ -34,10 +34,10 @@
 
 <h2> 🏅 Alguns dos meus repositórios </h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techsdw&repo=api-ospythonon&theme=tokyonight)](https://github.com/TechSDW/API-OsPythonOn)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techsdw&repo=api2-deepcode&theme=tokyonight)](https://github.com/TechSDW/API2-DeepCode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabionawa&repo=api-ospythonon&theme=tokyonight)](https://github.com/FabioNawa/API-OsPythonOn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabionawa&repo=api2-deepcode&theme=tokyonight)](https://github.com/FabioNawa/API2-DeepCode)
 
 
 <h3> 🙂 Mais informações </h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=techsdw&repo=meuportfolio&theme=tokyonight)](https://github.com/TechSDW/MeuPortfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=fabionawa&repo=meuportfolio&theme=tokyonight)](https://github.com/FabioNawa/MeuPortfolio)
